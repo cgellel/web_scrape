@@ -1,0 +1,25 @@
+h3 {
+  font-size: 1.3em;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.weather_box {
+  border: 1px solid gainsboro;
+  padding: .5em 1em .5em 1.5em;
+}
+
+table {
+  border: 1px solid gainsboro;
+}
+
+table td {
+  border: 1px solid gainsboro;
+  padding: .5em;
+}
+
+.featured_image img {
+  width: 100%;
+}
